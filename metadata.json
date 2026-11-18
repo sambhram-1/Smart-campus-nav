@@ -1,0 +1,6 @@
+{
+  "name": "Smart Campus Navigator",
+  "description": "Interactive campus pathfinding simulator comparing A* Search (Euclidean heuristic) and Breadth-First Search across 17 campus locations and 38 weighted walkways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
